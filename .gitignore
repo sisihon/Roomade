@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+roomade-server/.env
+roomade-server/node_modules/
